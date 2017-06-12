@@ -1,0 +1,17 @@
+body {
+  padding-top: 5rem;
+  background: url("../img/sunny.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Bubbler One', sans-serif !important;
+}
+/* TODO: postion weather-box according to good responsive practices */
+.weather-box {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
